@@ -13,5 +13,6 @@
 			echo "<h1>Assignment: PHP Basics</h1>";
 			// 2. This will display the assignment name, putting it in an h1 element
 		?>
+	<h2><?php echo $yourName; ?></h2>
 </body>
 </html>
